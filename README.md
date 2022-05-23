@@ -1,6 +1,6 @@
 ## Description
 
-Simple React app that intract with Ethereum smart contract.
+Simple React app that interact with Ethereum smart contract.
 
 ## Tech stack
 
